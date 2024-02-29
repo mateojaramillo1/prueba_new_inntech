@@ -41,6 +41,7 @@ http://localhost:5000/user/1
 buscar todos los usuarios (get)
 http://localhost:5000/users
 ```
+```
 registrar usuario (post)
 http://localhost:5000/register
 ```
